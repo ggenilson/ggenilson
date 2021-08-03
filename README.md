@@ -1,8 +1,4 @@
 ### Hi there, I'm Genilson António Meti Araújo 👋
-
-<!--
-**ggenilson/ggenilson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 ## NeverStopCoding
 
 
