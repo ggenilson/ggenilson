@@ -27,7 +27,8 @@ Totalmente apaixonado por programação, auto motivado e fascinado por inovaçã
 <img src="https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm" height="25"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/711px-PHP-logo.svg.png" height="25"/>
 <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" height="25"/> 
-<img src="https://www.appnetos.com/out/img/www.appnetos.com/twig.png" height="25"/>
+<img src="https://raw.githubusercontent.com/typeorm/typeorm/HEAD/resources/logo_big.png" height="25"/>
+  <img src="https://www.luiztools.com.br/wp-content/uploads/2021/01/sequelize.png" height="25"/>
 <img src="https://lieno.com.br/site/wp-content/uploads/2020/04/graphql.png" height="25"/>
 <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white" height="25"/>
 <img src="https://knexjs.org/assets/images/knex.png" height="25"/>
