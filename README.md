@@ -10,9 +10,9 @@
 </p>
 
 ## :smiley: About me
-Olá, meu nome é José, sou de Angola Luanda, sou desenvolvedor Javascript/Typescript e apaixonado por Php.
-Atualmente trabalho com Reactjs, Nodejs, Express e React Native.
-Quando não estou programando eu gosto de ouvir músicas, ler, estar com meus amigos e dar muita risada.
+
+Totalmente apaixonado por programação, auto motivado e fascinado por inovação e tecnologia. Estou sempre em busca de informações que possibilitem expandir minhas áreas de conhecimentos. Habilidades interpessoais e conhecimentos diversiﬁcados são meus principais diferenciais. FullStack Javascript Developer.
+
 ## :rocket: Programming Languages and tools
 
 <p align="center">
