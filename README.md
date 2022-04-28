@@ -1,4 +1,4 @@
-### Hi there, I'm Genilson António Meti Araújo 👋
+### Hi there, I'm Genilson Araújo 👋
 ## NeverStopCoding
 
 
