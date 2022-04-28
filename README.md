@@ -3,12 +3,6 @@
 
 
 <br>
-<p align='center'>
-&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/genilson-ara%C3%BAjo-b3b8b61b8/">
-    <img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
-  <a href="#"><img height="30" src="https://image.similarpng.com/very-thumbnail/2020/05/WhatsApp-icon-PNG.png"></a>&nbsp;&nbsp;
-</p>
 
 ## :smiley: About me
 
