@@ -1,7 +1,5 @@
 ### Hi there, I'm Genilson Araújo 👋
 
-<br>
-
 ## :smiley: About me
 
 Totalmente apaixonado por programação, auto motivado e fascinado por inovação e tecnologia. Estou sempre em busca de informações que possibilitem expandir minhas áreas de conhecimentos. Habilidades interpessoais e conhecimentos diversiﬁcados são meus principais diferenciais. FullStack Javascript Developer.
