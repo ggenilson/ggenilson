@@ -1,6 +1,4 @@
 ### Hi there, I'm Genilson Araújo 👋
-## NeverStopCoding
-
 
 <br>
 
