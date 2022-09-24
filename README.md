@@ -2,7 +2,7 @@
 
 ## :smiley: About me
 
-Totalmente apaixonado por programação, auto motivado e fascinado por inovação e tecnologia. Estou sempre em busca de informações que possibilitem expandir minhas áreas de conhecimentos. Habilidades interpessoais e conhecimentos diversiﬁcados são meus principais diferenciais. FullStack Javascript Developer.
+Experienced Software Engineer with a wealth of experience and knowledge using technologies to help organizations improve their results. I am able to support stakeholders and colleagues to provide numerous business improvements through technology.
 
 ## :rocket: Programming Languages and tools
 
