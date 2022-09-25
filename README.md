@@ -17,7 +17,6 @@ Experienced Software Engineer with a wealth of experience and knowledge using te
 <img src="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" height="25"/> 
 <img src="https://raw.githubusercontent.com/typeorm/typeorm/HEAD/resources/logo_big.png" height="25"/>
-  <img src="https://www.luiztools.com.br/wp-content/uploads/2021/01/sequelize.png" height="25"/>
 <img src="https://lieno.com.br/site/wp-content/uploads/2020/04/graphql.png" height="25"/>
 <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white" height="25"/>
 <img src="https://knexjs.org/assets/images/knex.png" height="25"/>
