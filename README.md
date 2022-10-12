@@ -16,5 +16,4 @@ Experienced Software Engineer with a wealth of experience and knowledge using te
 <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" height="25"/>
 <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white" height="25"/>
 <img src="https://www.iped.com.br/img/cursos/56207.jpg" height="25"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/SQLite370.svg/1200px-SQLite370.svg.png" height="25"/>
 </p>
