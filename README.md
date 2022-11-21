@@ -4,7 +4,7 @@
 
 Experienced Software Engineer with a wealth of experience and knowledge using technologies to help organizations improve their results. I am able to support stakeholders and colleagues to provide numerous business improvements through technology.
 
-## :rocket: Programming languages and tools
+## :rocket: Programming languages and tools:
 
 <p align="center">
   
