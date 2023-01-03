@@ -1,6 +1,6 @@
 ### Hi there, I'm Genilson Araújo 👋
 
-<h3>:smiley: About me</h3>
+### :smiley: About me
 
 Experienced Software Engineer with a wealth of experience and knowledge using technologies to help organizations improve their results. I am able to support stakeholders and colleagues to provide numerous business improvements through technology.
 
