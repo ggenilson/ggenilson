@@ -4,7 +4,7 @@
 
 Experienced Software Engineer with a wealth of experience and knowledge using technologies to help organizations improve their results. I am able to support stakeholders and colleagues to provide numerous business improvements through technology.
 
-<h3 align="left">Programming languages and tools</h3>
+<h3 align="left">Programming languages and tools:</h3>
 
 <p align="left">
   <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black" height="25"/>
