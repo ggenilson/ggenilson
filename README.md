@@ -2,7 +2,7 @@
 
 ## :smiley: About me
 
-Experienced Software Engineer with a wealth of experience and knowledge using technologies to help organizations improve their results. I am able to support stakeholders and colleagues to provide numerous business improvements through technology.
+Experienced Software Engineer with a wealth of experience and knowledge using technologies to help organizations improve their results. I am able to support stakeholders and colleagues to provide numerous business improvements through technology
 
 <h3 align="left">Programming languages and tools:</h3>
 
